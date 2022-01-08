@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jOMvr0qpuW9aClemAdjeTiQgebiAah+kFyzrSyz4cyUYxjg43SPbQRvKnhEs/aBMtgpl1m+XfgyOl+qE4vfqBQ==",
+  "dgSpecHash": "vADqGm9osGWOaSbQ/3Cs1kNyU5UC0eNl6uj8F+OBu+4E0LukKtJtnjNP15yqY38Ck6uhRSua6HjikTWX4gPdHQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite\\6.0.1\\microsoft.data.sqlite.6.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
