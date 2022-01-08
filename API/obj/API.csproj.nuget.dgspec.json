@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,12 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.1, )"
             },
